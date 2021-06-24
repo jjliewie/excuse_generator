@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+
+  "name": "Excuse Generator",
+  "description": "Why are you late to your ZOOM meeting?",
+  "version": "1.0",
+
+  "browser_action": {
+   "default_icon": "picture2 copy.png",
+   "default_popup": "popup.html"
+  },
+  "permissions": [
+   "activeTab"
+   ]
+}
